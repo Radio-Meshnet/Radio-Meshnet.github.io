@@ -11,7 +11,7 @@ Here, the theoretical planning of such networks is to be transferred to reality.
 Function and reliability is to be tested and optimized with a large number of participants over long distances. 
 In the first step, a messenger app must be developed (Communicator) 
 and the necessary wireless hardware Loradio/ WLAN mesh/ CB radio 
-for the selected network stack [Reticulum](www.reticulum.network) from Mark Quist. 
+for the selected network stack [Reticulum](https://www.reticulum.network) from Mark Quist. 
 
 In step two, the actual project goal is sought. 
 
@@ -30,7 +30,7 @@ This has never really been implemented at the moment.
 Suitable blockchains such as beam, mina etc. are to be examined for this purpose.
 
 If you have questions or want to join the effort
-visit [Our Webpage](www.freiedeutschegesellschaft.org) and give us a Message.
+visit [Our Webpage](https://www.freiedeutschegesellschaft.org) and give us a Message.
 We need external help and have made a Repo for Tracking those Issues.
 
 There you`ll find suggestions on things that need to be made in order to let our meshnetwork qonquer the World.
