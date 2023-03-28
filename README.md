@@ -11,7 +11,7 @@ Here, the theoretical planning of such networks is to be transferred to reality.
 Function and reliability is to be tested and optimized with a large number of participants over long distances. 
 In the first step, a messenger app must be developed (Communicator) 
 and the necessary wireless hardware Loradio/ WLAN mesh/ CB radio 
-for the selected network stack [Reticulum](reticulum.network) from Mark Quist. 
+for the selected network stack [Reticulum](www.reticulum.network) from Mark Quist. 
 
 In step two, the actual project goal is sought. 
 
