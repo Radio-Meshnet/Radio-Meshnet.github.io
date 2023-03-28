@@ -30,7 +30,7 @@ This has never really been implemented at the moment.
 Suitable blockchains such as beam, mina etc. are to be examined for this purpose.
 
 If you have questions or want to join the effort
-visit (www.freiedeutschegesellschaft.org) and give us a Message.
+visit [Our Webpage](www.freiedeutschegesellschaft.org) and give us a Message.
 We need external help and have made a Repo for Tracking those Issues.
 
 There you`ll find suggestions on things that need to be made in order to let our meshnetwork qonquer the World.
