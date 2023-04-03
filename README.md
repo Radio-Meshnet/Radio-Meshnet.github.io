@@ -1,7 +1,8 @@
 # radio-meshnet.github.io
 Radio-Meshnet.github.io webpage repo
 
-## Overview and scope of the project 'Radio Meshnet', that is funded by NLnet Foundation (nlnet.nl).
+## Overview and scope of the project 'Radio Meshnet'
+(which is funded by NLnet Foundation [nlnet.nl]).
 
 The aim of the project is the development and testing of a self-sustained radio mesh-network based on free radio standards like LoRa, Wifi, CB, PMR under reallife conditions to allow communities to communicate and transact economically in emergency situations, independent from the electricity grid and the internet. Therefore, suitable hardware and software technology is to be found, used, refined and developed. The theoretical planning of such networks is to be transferred to reality and the function and reliability is to be tested and optimized with large amounts of participants over long distances. 
 
